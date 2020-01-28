@@ -10,3 +10,7 @@ if (color.lower() == 'red'):
     print('Correct!')
 else:
     print('Sorry, try again.')
+
+#I expect it to format the players response to all lower case letters so that in any way you type red it will be right
+#This is solving the problem of the player using a different scheme of capital letters
+#When adding spaces it is counted as incorrect

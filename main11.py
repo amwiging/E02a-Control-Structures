@@ -10,7 +10,7 @@ def choose_color(last_color):
         c = random.choice(colors)
     return c
 
-
+#i think that lines 6-11 are preventing the color that was previously used in a round to show up in the next
 
 
 print('Greetings!')

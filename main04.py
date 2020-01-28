@@ -10,3 +10,7 @@ if (color == 'Red' or color == 'red'):
     print('Correct!')
 else:
     print('Sorry, try again.')
+
+#Now the options for "color" have expanded and you no longer have to have it capitalized
+#Now you wont be wrong when not capitalizing
+#when not using "Red" or "red" exactly it is seen as incorrect

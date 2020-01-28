@@ -19,3 +19,7 @@ while (color != 'red'):
         print('Sorry, try again.')
 
 print('You guessed it in {} tries!'.format(count))
+
+#Line 13 adds a new varible of count and each time the game is looped it adds 1 to that count
+#count is to allow the player at the end how many guesses it took to guess it.
+#The last line shows text of how many players it took to guess it. 

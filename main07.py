@@ -13,3 +13,6 @@ elif (color == 'pink'):
     print('Close!')
 else:
     print('Sorry, try again.')
+
+#this one now gives hints to the player who is guessing the color
+#if the player types pink they the game will say that they are close to the correct answer
